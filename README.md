@@ -21,7 +21,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [https://github.com/Roman-oryol/testimonials-grid-section](https://github.com/Roman-oryol/testimonials-grid-section)
-- Live Site URL: [https://ro-four-card-feature.netlify.app/](https://ro-four-card-feature.netlify.app/)
+- Live Site URL: [https://ro-testimonials-section.netlify.app/](https://ro-testimonials-section.netlify.app/)
 
 ## My process
 
@@ -29,9 +29,9 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - Mobile-first workflow
+- AOS library for animation
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 
