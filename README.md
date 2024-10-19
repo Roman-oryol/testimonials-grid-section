@@ -1,6 +1,6 @@
-# Frontend Mentor - Four card feature section solution
+# Frontend Mentor - Testimonials grid section
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
 ## Table of contents
 
@@ -20,14 +20,20 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [https://github.com/Roman-oryol/four-card-feature](https://github.com/Roman-oryol/four-card-feature)
+- Solution URL: [https://github.com/Roman-oryol/testimonials-grid-section](https://github.com/Roman-oryol/testimonials-grid-section)
 - Live Site URL: [https://ro-four-card-feature.netlify.app/](https://ro-four-card-feature.netlify.app/)
 
 ## My process
 
 ### Built with
 
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
 
 ### Continued development
 

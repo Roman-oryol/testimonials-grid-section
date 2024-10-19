@@ -1,0 +1,14 @@
+.testimonialsSection {
+  display: grid;
+  grid-template-columns: minmax(327px, 540px);
+  gap: 24px 30px;
+  justify-content: center;
+
+  @media (min-width: 950px) {
+    grid-template-columns: repeat(2, minmax(255px, 540px));
+  }
+
+  @media (min-width: 1270px) {
+    grid-template-columns: repeat(4, 255px);
+  }
+}

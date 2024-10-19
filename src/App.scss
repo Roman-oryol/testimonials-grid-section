@@ -1,0 +1,44 @@
+@use './tokens/fonts' as *;
+@use './tokens/colors' as *;
+
+
+* {
+  box-sizing: border-box;
+
+  margin: 0;
+  padding: 0;
+
+  border: none;
+  border-radius: 0;
+
+  background: none;
+  box-shadow: none;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  min-width: 375px;
+  padding-top: 71px;
+  padding-bottom: 71px;
+  font-family: $font-barlow-semi-condensed;
+  font-weight: 500;
+  background-color: $color-light-grayish-blue;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+ol,
+ul {
+  list-style: none;
+}
