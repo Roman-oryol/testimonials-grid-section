@@ -30,7 +30,7 @@ const Testimonial = ({ name, status, main, details, avatarUrl, index }) => {
         <p className={styles.authorStatus}>{status}</p>
       </div>
 
-      <p className={styles.testimonialMain}>{main}</p>
+      <h2 className={styles.testimonialMain}>{main}</h2>
 
       <p className={styles.testimonialDetails}>" {details} ”</p>
       <p></p>

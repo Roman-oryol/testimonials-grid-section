@@ -7,6 +7,7 @@ import './App.scss';
 const App = () => {
   return (
     <main>
+      <h1 className="visuallyHidden">Testimonial section</h1>
       <Container>
         <TestimonialsSection />
       </Container>
