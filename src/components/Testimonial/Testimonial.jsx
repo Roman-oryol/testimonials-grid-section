@@ -25,7 +25,7 @@ const Testimonial = ({ name, status, main, details, avatarUrl, index }) => {
       className={`${styles.testimonial} ${styles[classModifiers[index]]}`}
     >
       <div className={styles.testimonialAuthor}>
-        <img src={avatarUrl} width={28} height={28} />
+        <img src={avatarUrl} width={28} height={28} alt="Author's photograph" />
         <p className={styles.authorName}>{name}</p>
         <p className={styles.authorStatus}>{status}</p>
       </div>
