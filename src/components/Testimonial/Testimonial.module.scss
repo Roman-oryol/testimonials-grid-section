@@ -81,13 +81,10 @@
 
   &White {
     background-color: $color-white;
+    color: $color-very-dark-grayish-blue;
 
     @media (min-width: 1270px) {
       padding-bottom: 26px;
-    }
-
-    .testimonialAuthor {
-      color: $color-very-dark-grayish-blue;
     }
 
     .testimonialMain {
